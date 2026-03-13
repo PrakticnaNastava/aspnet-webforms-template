@@ -25,8 +25,11 @@ U ovom segmentu je potrebno uneti imena članova tima
 - Ako se izaberu tekstualne datoteke za manipulaciju podacima, potrebno je uraditi sa više tekstualnih tabela
   
 ## 4. Uputstvo za Git
-1. Svaki član tima klonira repozitorijum i ne menja mu naziv
+1. Svaki član tima klonira repozitorijum i **ne menja** mu naziv
 2. Svaki član tima radi commit/push.  
 3. Koristiti kratke i jasne poruke za commit, npr: upis podataka u bazu iz forme, ...
 4. Svaku novu funkcionalnost treba dokumentovati u README.md fajlu 
 
+## 5. Izrada dokumentacije
+Sve funkcionalnosti koje su implementirane je potrebno dokumentovati, u README.md fajlu.\
+Kao pomoć u izradi dokumentacije koristiti [MarkDown Cheet Sheet](https://www.markdownguide.org/cheat-sheet/#overview).
