@@ -32,4 +32,4 @@ U ovom segmentu je potrebno uneti imena članova tima
 
 ## 5. Izrada dokumentacije
 Sve funkcionalnosti koje su implementirane je potrebno dokumentovati, u README.md fajlu.\
-Kao pomoć u izradi dokumentacije koristiti [MarkDown Cheet Sheet](https://www.markdownguide.org/cheat-sheet/#overview).
+Kao pomoć u izradi dokumentacije koristiti [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/#overview).
